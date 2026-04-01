@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://www.uit.edu.vn/strapi/uploads/LOGO_VNA_c054066f11_7d72ba6441.png" alt="Trường Đại học Công nghệ Thông tin" width="500" />
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
 </p>
 
 <h1 align="center">IT003 - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT</h1>
