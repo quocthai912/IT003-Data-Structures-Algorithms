@@ -7,6 +7,8 @@
 <h1 align="center">IT003 - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT</h1>
 
 # 1. GIỚI THIỆU:
+![C++](https://img.shields.io/static/v1?label=Language&message=C%2B%2B&color=00599C&style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=Language&message=Python%203.x&color=3776AB&style=flat-square&logo=python&logoColor=white)
 + Đây là toàn bộ Source Code của tất cả bài tập mình đã làm khi còn học môn Cấu trúc dữ liệu & Giải thuật. Tất cả đều đã ACCEPT 100%, các bạn có thể tham khảo nếu có gặp dạng bài tương tự.
 + Ngoài ra, ở từng thư mục mình đều đã chia rõ theo từng thuật toán, cũng như theo từng cấu trúc dữ liệu mà các bạn sẽ học xuyên suốt môn học này. Tuy nhiên, hạn chế nhất là mình không có chụp lại đề bài vì quá nhiều và Wecode IT003 của mình cũng đã bị khóa, mong các bạn thông cảm.
 ---
